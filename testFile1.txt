@@ -3,3 +3,5 @@ in file 1
 changes for second commit
 
 changes made in github
+
+second change made from github
